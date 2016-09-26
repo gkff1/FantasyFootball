@@ -1,103 +1,109 @@
-╔════════════════════╦═════╦══════╦══════╦═══════════════════════════╗
-║ Player             ║ Pos ║ Team ║ Week ║ owner                     ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Aaron Rodgers      ║ QB  ║ GB   ║ 3    ║ Golden Tate Warriors      ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Drew Brees         ║ QB  ║ NO   ║ 3    ║ When the Le'Veon Breaks   ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Cam Newton         ║ QB  ║ CAR  ║ 3    ║ The Walking Dez           ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Matt Ryan          ║ QB  ║ ATL  ║ 3    ║ Bellichick Yo Self        ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Carson Palmer      ║ QB  ║ ARI  ║ 3    ║ Jamaal About That Bass    ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Russell Wilson     ║ QB  ║ SEA  ║ 3    ║ Turn Down for Watt        ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Ben Roethlisberger ║ QB  ║ PIT  ║ 3    ║ Waka Flacco Flame         ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Eli Manning        ║ QB  ║ NYG  ║ 3    ║ Bend it like Beckham Jr.  ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Andrew Luck        ║ QB  ║ IND  ║ 3    ║ Kief away from the Donkey ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Philip Rivers      ║ QB  ║ SD   ║ 3    ║ GitKraken Skulls          ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Ryan Tannehill     ║ QB  ║ MIA  ║ 3    ║ Golden Tate Warriors      ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Matthew Stafford   ║ QB  ║ DET  ║ 3    ║ When the Le'Veon Breaks   ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Derek Carr         ║ QB  ║ OAK  ║ 3    ║ The Walking Dez           ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ DeAngelo Williams  ║ RB  ║ PIT  ║ 3    ║ Bellichick Yo Self        ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Marcus Mariota     ║ QB  ║ TEN  ║ 3    ║ Jamaal About That Bass    ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Kirk Cousins       ║ QB  ║ WAS  ║ 3    ║ Turn Down for Watt        ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Blake Bortles      ║ QB  ║ JAX  ║ 3    ║ Waka Flacco Flame         ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Joe Flacco         ║ QB  ║ BAL  ║ 3    ║ Bend it like Beckham Jr.  ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Julio Jones        ║ WR  ║ ATL  ║ 3    ║ Kief away from the Donkey ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Brock Osweiler     ║ QB  ║ HOU  ║ 3    ║ Golden Tate Warriors      ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ David Johnson      ║ RB  ║ ARI  ║ 3    ║ When the Le'Veon Breaks   ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Dak Prescott       ║ QB  ║ DAL  ║ 3    ║ The Walking Dez           ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Odell Beckham Jr   ║ WR  ║ NYG  ║ 3    ║ Bellichick Yo Self        ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Andy Dalton        ║ QB  ║ CIN  ║ 3    ║ Jamaal About That Bass    ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Jameis Winston     ║ QB  ║ TB   ║ 3    ║ GitKraken Skulls          ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Tyrod Taylor       ║ QB  ║ BUF  ║ 3    ║ Waka Flacco Flame         ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Ryan Fitzpatrick   ║ QB  ║ NYJ  ║ 3    ║ Bend it like Beckham Jr.  ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Alex Smith         ║ QB  ║ KC   ║ 3    ║ Kief away from the Donkey ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Brian Hoyer        ║ QB  ║ CHI  ║ 3    ║ GitKraken Skulls          ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Carson Wentz       ║ QB  ║ PHI  ║ 3    ║ Golden Tate Warriors      ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Todd Gurley        ║ RB  ║ LA   ║ 3    ║ When the Le'Veon Breaks   ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ DeAndre Hopkins    ║ WR  ║ HOU  ║ 3    ║ The Walking Dez           ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Ezekiel Elliott    ║ RB  ║ DAL  ║ 3    ║ GitKraken Skulls          ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ CJ Anderson        ║ RB  ║ DEN  ║ 3    ║ Jamaal About That Bass    ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Antonio Brown      ║ WR  ║ PIT  ║ 3    ║ Turn Down for Watt        ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Matt Forte         ║ RB  ║ NYJ  ║ 3    ║ Waka Flacco Flame         ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Jacoby Brissett    ║ QB  ║ NE   ║ 3    ║ Bend it like Beckham Jr.  ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ LeSean McCoy       ║ RB  ║ BUF  ║ 3    ║ Kief away from the Donkey ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Trevor Siemian     ║ QB  ║ DEN  ║ 3    ║ Golden Tate Warriors      ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Mark Ingram        ║ RB  ║ NO   ║ 3    ║ When the Le'Veon Breaks   ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Lamar Miller       ║ RB  ║ HOU  ║ 3    ║ The Walking Dez           ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Melvin Gordon      ║ RB  ║ SD   ║ 3    ║ Bellichick Yo Self        ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Larry Fitzgerald   ║ WR  ║ ARI  ║ 3    ║ Jamaal About That Bass    ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ AJ Green           ║ WR  ║ CIN  ║ 3    ║ Turn Down for Watt        ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Case Keenum        ║ QB  ║ LA   ║ 3    ║ Waka Flacco Flame         ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ DeMarco Murray     ║ RB  ║ TEN  ║ 3    ║ Bend it like Beckham Jr.  ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Sam Bradford       ║ QB  ║ MIN  ║ 3    ║ Kief away from the Donkey ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Spencer Ware       ║ RB  ║ KC   ║ 3    ║ GitKraken Skulls          ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Eddie Lacy         ║ RB  ║ GB   ║ 3    ║ Golden Tate Warriors      ║
-╠════════════════════╬═════╬══════╬══════╬═══════════════════════════╣
-║ Devonta Freeman    ║ RB  ║ ATL  ║ 3    ║ When the Le'Veon Breaks   ║
-╚════════════════════╩═════╩══════╩══════╩═══════════════════════════╝
+╔════════════════════╦═════╦══════╦═══════════════════════════╗
+║ Player             ║ Pos ║ Team ║ owner                     ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Aaron Rodgers      ║ QB  ║ GB   ║ Golden Tate Warriors      ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Drew Brees         ║ QB  ║ NO   ║ When the Le'Veon Breaks   ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Cam Newton         ║ QB  ║ CAR  ║ The Walking Dez           ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Matt Ryan          ║ QB  ║ ATL  ║ Bellichick Yo Self        ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Carson Palmer      ║ QB  ║ ARI  ║ Jamaal About That Bass    ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Russell Wilson     ║ QB  ║ SEA  ║ Turn Down for Watt        ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Ben Roethlisberger ║ QB  ║ PIT  ║ Waka Flacco Flame         ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Eli Manning        ║ QB  ║ NYG  ║ Bend it like Beckham Jr.  ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Andrew Luck        ║ QB  ║ IND  ║ Kief away from the Donkey ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Philip Rivers      ║ QB  ║ SD   ║ GitKraken Skulls          ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Ryan Tannehill     ║ QB  ║ MIA  ║ Golden Tate Warriors      ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Matthew Stafford   ║ QB  ║ DET  ║ When the Le'Veon Breaks   ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Derek Carr         ║ QB  ║ OAK  ║ The Walking Dez           ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ DeAngelo Williams  ║ RB  ║ PIT  ║ Bellichick Yo Self        ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Marcus Mariota     ║ QB  ║ TEN  ║ Jamaal About That Bass    ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Kirk Cousins       ║ QB  ║ WAS  ║ Turn Down for Watt        ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Blake Bortles      ║ QB  ║ JAX  ║ Waka Flacco Flame         ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Joe Flacco         ║ QB  ║ BAL  ║ Bend it like Beckham Jr.  ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Julio Jones        ║ WR  ║ ATL  ║ Kief away from the Donkey ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Brock Osweiler     ║ QB  ║ HOU  ║ Golden Tate Warriors      ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ David Johnson      ║ RB  ║ ARI  ║ When the Le'Veon Breaks   ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Dak Prescott       ║ QB  ║ DAL  ║ The Walking Dez           ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Odell Beckham Jr   ║ WR  ║ NYG  ║ Bellichick Yo Self        ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Andy Dalton        ║ QB  ║ CIN  ║ Jamaal About That Bass    ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Jameis Winston     ║ QB  ║ TB   ║ GitKraken Skulls          ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Tyrod Taylor       ║ QB  ║ BUF  ║ Waka Flacco Flame         ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Ryan Fitzpatrick   ║ QB  ║ NYJ  ║ Bend it like Beckham Jr.  ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Alex Smith         ║ QB  ║ KC   ║ Kief away from the Donkey ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Brian Hoyer        ║ QB  ║ CHI  ║ GitKraken Skulls          ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Carson Wentz       ║ QB  ║ PHI  ║ Golden Tate Warriors      ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Todd Gurley        ║ RB  ║ LA   ║ When the Le'Veon Breaks   ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Adrian Peterson    ║ RB  ║ MN   ║ Kief away from the Donkey ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ DeAndre Hopkins    ║ WR  ║ HOU  ║ The Walking Dez           ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Ezekiel Elliott    ║ RB  ║ DAL  ║ GitKraken Skulls          ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ CJ Anderson        ║ RB  ║ DEN  ║ Jamaal About That Bass    ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Antonio Brown      ║ WR  ║ PIT  ║ Turn Down for Watt        ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Matt Forte         ║ RB  ║ NYJ  ║ Waka Flacco Flame         ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Jacoby Brissett    ║ QB  ║ NE   ║ Bend it like Beckham Jr.  ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ LeSean McCoy       ║ RB  ║ BUF  ║ Kief away from the Donkey ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Trevor Siemian     ║ QB  ║ DEN  ║ Golden Tate Warriors      ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Mark Ingram        ║ RB  ║ NO   ║ When the Le'Veon Breaks   ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Matt Asiata        ║ RB  ║ MN   ║ **Waivers** (9/28)        ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Lamar Miller       ║ RB  ║ HOU  ║ The Walking Dez           ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Melvin Gordon      ║ RB  ║ SD   ║ Bellichick Yo Self        ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Larry Fitzgerald   ║ WR  ║ ARI  ║ Jamaal About That Bass    ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ AJ Green           ║ WR  ║ CIN  ║ Turn Down for Watt        ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Case Keenum        ║ QB  ║ LA   ║ Waka Flacco Flame         ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ DeMarco Murray     ║ RB  ║ TEN  ║ Bend it like Beckham Jr.  ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Danny Woodhead     ║ RB  ║ SD   ║ GitKraken Skulls          ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Sam Bradford       ║ QB  ║ MIN  ║ Kief away from the Donkey ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Spencer Ware       ║ RB  ║ KC   ║ Turn Down for Watt        ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Eddie Lacy         ║ RB  ║ GB   ║ Golden Tate Warriors      ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Devonta Freeman    ║ RB  ║ ATL  ║ When the Le'Veon Breaks   ║
+╚════════════════════╩═════╩══════╩═══════════════════════════╝
