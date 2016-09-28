@@ -43,6 +43,8 @@
 ╠════════════════════╬═════╬══════╬═══════════════════════════╣
 ║ David Johnson      ║ RB  ║ ARI  ║ When the Le'Veon Breaks   ║
 ╠════════════════════╬═════╬══════╬═══════════════════════════╣
+║ Terrelle Pryor     ║ WR  ║ CLE  ║ Kief away from the Donkey ║
+╠════════════════════╬═════╬══════╬═══════════════════════════╣
 ║ Dak Prescott       ║ QB  ║ DAL  ║ The Walking Dez           ║
 ╠════════════════════╬═════╬══════╬═══════════════════════════╣
 ║ Odell Beckham Jr   ║ WR  ║ NYG  ║ Bellichick Yo Self        ║
@@ -63,7 +65,7 @@
 ╠════════════════════╬═════╬══════╬═══════════════════════════╣
 ║ Todd Gurley        ║ RB  ║ LA   ║ When the Le'Veon Breaks   ║
 ╠════════════════════╬═════╬══════╬═══════════════════════════╣
-║ Adrian Peterson    ║ RB  ║ MN   ║ Kief away from the Donkey ║
+║ Adrian Peterson    ║ RB  ║ MN   ║ **None**                  ║
 ╠════════════════════╬═════╬══════╬═══════════════════════════╣
 ║ DeAndre Hopkins    ║ WR  ║ HOU  ║ The Walking Dez           ║
 ╠════════════════════╬═════╬══════╬═══════════════════════════╣
@@ -83,7 +85,7 @@
 ╠════════════════════╬═════╬══════╬═══════════════════════════╣
 ║ Mark Ingram        ║ RB  ║ NO   ║ When the Le'Veon Breaks   ║
 ╠════════════════════╬═════╬══════╬═══════════════════════════╣
-║ Matt Asiata        ║ RB  ║ MN   ║ **Waivers** (9/28)        ║
+║ Matt Asiata        ║ RB  ║ MN   ║ GitKraken Skulls          ║
 ╠════════════════════╬═════╬══════╬═══════════════════════════╣
 ║ Lamar Miller       ║ RB  ║ HOU  ║ The Walking Dez           ║
 ╠════════════════════╬═════╬══════╬═══════════════════════════╣
@@ -97,7 +99,7 @@
 ╠════════════════════╬═════╬══════╬═══════════════════════════╣
 ║ DeMarco Murray     ║ RB  ║ TEN  ║ Bend it like Beckham Jr.  ║
 ╠════════════════════╬═════╬══════╬═══════════════════════════╣
-║ Danny Woodhead     ║ RB  ║ SD   ║ GitKraken Skulls          ║
+║ Danny Woodhead     ║ RB  ║ SD   ║ **None**                  ║
 ╠════════════════════╬═════╬══════╬═══════════════════════════╣
 ║ Sam Bradford       ║ QB  ║ MIN  ║ Kief away from the Donkey ║
 ╠════════════════════╬═════╬══════╬═══════════════════════════╣
